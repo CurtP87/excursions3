@@ -27,5 +27,11 @@ body {
       color:aquamarine;
     }
 
+    /* Footer */
+
+    .footer--copyright {
+      font-size: 21px;  
+      color:rgb(68, 75, 72);
+      text-align: right;
     
 
